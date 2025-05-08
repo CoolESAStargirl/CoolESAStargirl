@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning robotics.
 - 🌱 I’m currently learning R, Python and C/C++
 - 📫 How to reach me:
-- ✉️ email: ngkoydli@gmail.com
+- ✉️ email: ngkoudli@gmail.com
 - 📘 fb: Goudli Nina
 - 🔗 li: Nina Gkoudli
 
