@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CoolESAStargirl
 - 👀 I’m interested in learning robotics.
-- 🌱 I’m currently learning micro:bit and Arduino
+- 🌱 I’m currently learning R, Python and C/C++
 - 📫 How to reach me:
-email: ngkoydli@gmail.com
-fb: Goudli Nina
-li: Nina Gkoudli
+- ✉️ email: ngkoydli@gmail.com
+- 📘 fb: Goudli Nina
+- 🔗 li: Nina Gkoudli
 
 <!---
 CoolESAStargirl/CoolESAStargirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
