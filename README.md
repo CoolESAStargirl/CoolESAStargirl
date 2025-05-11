@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @CoolESAStargirl
+- 👋 Hi, I’m @CoolESAStargirl.
 - 👀 I’m interested in learning robotics.
-- 🌱 I’m currently learning R, Python and C/C++
+- 🌱 I’m currently learning R, Python, C/C++ and QGIS.
 - 📫 How to reach me:
-- ✉️ email: ngkoudli@gmail.com
-- 📘 fb: Goudli Nina
+- ✉️ email: ninagkou@env.duth.gr
 - 🔗 li: Nina Gkoudli
+- 📘 fb: Goudli Nina
 
 <!---
 CoolESAStargirl/CoolESAStargirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
